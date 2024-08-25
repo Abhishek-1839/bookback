@@ -138,18 +138,18 @@ Rating:
 
 #### Manage Reviews
 
-[ ] GET /api/v1/admin/reviews : Get all reviews
-[ ] GET /api/v1/admin/reviews/:id : Get review by id
-[ ] DELETE /api/v1/admin/reviews/:id : Delete review by id
-[ ] PUT /api/v1/admin/reviews/:id : Update review by id
-[ ] GET /api/v1/admin/reviews/book/:id : Get all reviews for a book
-[ ] GET /api/v1/admin/reviews/user/:id : Get all reviews by a user
+[ ] GET /api/v1/admin/reviews : Get all reviews 
+[ ] GET /api/v1/admin/reviews/:id : Get review by id    
+[ ] DELETE /api/v1/admin/reviews/:id : Delete review by id  
+[ ] PUT /api/v1/admin/reviews/:id : Update review by id 
+[ ] GET /api/v1/admin/reviews/book/:id : Get all reviews for a book 
+[ ] GET /api/v1/admin/reviews/user/:id : Get all reviews by a user  
 
 #### Manage Ratings
 
-[ ] GET /api/v1/admin/ratings : Get all ratings
-[ ] GET /api/v1/admin/ratings/:id : Get rating by id
-[ ] DELETE /api/v1/admin/ratings/:id : Delete rating by id
-[ ] PUT /api/v1/admin/ratings/:id : Update rating by id
-[ ] GET /api/v1/admin/ratings/book/:id : Get all ratings for a book
-[ ] GET /api/v1/admin/ratings/user/:id : Get all ratings by a user
+[ ] GET /api/v1/admin/ratings : Get all ratings 
+[ ] GET /api/v1/admin/ratings/:id : Get rating by id    
+[ ] DELETE /api/v1/admin/ratings/:id : Delete rating by id  
+[ ] PUT /api/v1/admin/ratings/:id : Update rating by id 
+[ ] GET /api/v1/admin/ratings/book/:id : Get all ratings for a book 
+[ ] GET /api/v1/admin/ratings/user/:id : Get all ratings by a user  
